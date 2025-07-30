@@ -1,1 +1,1 @@
-print("powerbi project")
+print("powerbi")
